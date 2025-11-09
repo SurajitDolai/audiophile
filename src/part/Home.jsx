@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../component/Navbar'
-import First from '../component/first'
+import First from '../component/First'
 import Second from '../component/Second'
 import Third from '../component/Third'
 import Footer from '../component/Footer'
